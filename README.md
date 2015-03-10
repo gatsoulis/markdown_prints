@@ -1,4 +1,4 @@
-### QTC
+### QTC usage
 QTC descirbes the movement of 2 agents in 2d space. The implemented version is described in [1,2].
 Both agents need to have their x,y coordinates described for at least two timesteps. Please see `qsr_lib/share/qtc_data` or the `example_ros_client.py` for a very short example.
 
